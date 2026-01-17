@@ -1,3 +1,15 @@
+# Office setup 
+Устанавливаем Office для дома 2024 -> https://4pda.to/stat/go?u=https%3A%2F%2Fofficecdn.microsoft.com%2Fdb%2F492350f6-3a01-4f97-b9c0-c7c6ddf67d60%2Fmedia%2Fru-RU%2FHome2024Retail.img&e=136508002
+Запускаем этот фикс -> https://4pda.to/stat/go?u=https%3A%2F%2Fdownload.microsoft.com%2Fdownload%2FF%2F2%2F2%2FF22D5FDB-59CD-4275-8C95-1BE17BF70B21%2Fcssemerg97275.diagcab&e=136508002
+Заходим в любое приложение офиса и логинимся своим майкрософт аккаунтом.
+На сайте майкрософт в подписках появляется приобретенный офис, на почту приходит ключ.
+
+Фикс восстанавливает предварительно установленную лицензию Office,
+которая была удалена после переустановки или клонирования Windows.
+
+(с) https://4pda.to/forum/index.php?showtopic=1103147&st=460#entry136508002
+
+
 # Cheat Sheet and FAQ for Xiaomi Redmibook Pro 14/16 2024 with Intel Ultra 125H/155H
 
 ## There are two versions of this cheat sheet: [English version](#english-version) and [Русская версия](#русская-версия)
